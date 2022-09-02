@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is my nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "nodemon index.js"
+  },
+  "author": "divya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  }
+}
